@@ -1,0 +1,51 @@
+[
+	{
+		"index": 0,
+		"title": "UPI Lite",
+		"about": "UPI platform processes lakhs of transactions every minute which may sometime lead to people facing lower transaction success rates. Data also reveals that nearly three-fourths of UPI payments are generally of a smaller value (less than Rs 2000). So, to improve the functioning of UPI payments ahead, NPCI launched the UPI Lite feature.",
+		"characteristics": "UPI Lite is an 'on-device wallet' feature which allows users to add a maximum of Rs 2000 to the UPI Lite app balance and make small-value payments. The feature makes payments more efficient and reduces the load on the banking system. UPI Lite can only be used for low-denomination transactions of value under Rs 200 without the need to enter any UPI PIN.",
+		"videoLink": "UPI Lite.mp4"
+	},
+	{
+		"index": 1,
+		"title": "UPI AUTOPAY ",
+		"about": "The digitalisation of use cases such as bill payments, financial investments and rapid adaptation of OTT platforms is increasing the demand for subscription-based payments in India. And, UPI AUTOPAY, aims to enhance its convenience for customers so that they can enjoy seamless services without any disruptions.",
+		"characteristics": "UPI AUTOPAY is a feature through which an individual can automate the monthly payments of a fixed amount that will be deducted from the account on a particular date. It enables customers to make recurring payments using UPI-linked bank accounts. An individual can use this service for paying bills, availing content subscriptions, utility services and many more. Moreover, it also benefits the merchants with the timely receipt of payments.",
+		"videoLink": "UPI AutoPay.mp4"
+	},
+	{
+		"index": 2,
+		"title": "Credit card on UPI ",
+		"about": "Since inception, UPI apps were linked to users' saving or salary accounts thus limiting their payment usage and consumption behaviour. This is where Credit Cards on UPI come in. It provides a seamless, digitally enabled credit card lifecycle experience for customers. Credit Cards will be linked to users' UPI IDs, thus directly enabling safe, and secure payment transactions. To avail this service, users need to link their RuPay card on BHIM app.",
+		"characteristics": "With the linkage of Credit Card on UPI, customers can benefit from the increased opportunity to use their credit cards. From this, merchants can also benefit from the increase in consumption by being part of the credit ecosystem with the acceptance of credit cards using assets like QR codes. The service allow users to earn reward points, rewards and cashbacks which are the major USPs for credit card users.",
+		"videoLink": "Credit card on UPI.mp4"
+	},
+	{
+		"index": 3,
+		"title": "123PAY",
+		"about": "Earlier, users needed to have at least a smartphone, a bank account and an active internet connection to carry out a UPI transaction. This limited the extent of UPI transactions to people who are proficient in using smartphones. As a solution to this, certain pockets in India use feature phones and 123PAY which provides UPI payment services to entire ecosystem. It is an instant payment system for feature phone users who can use UPI payment service in a safe and secure manner.",
+		"characteristics": "Through UPI 123PAY, feature phone users will now be able to undertake a host of transactions based on four technology alternatives. They include calling an IVR (interactive voice response) number, app functionality in feature phones, missed call-based approach and also proximity sound-based payments. UPI 123PAY allows both smartphone and feature phone customers to do digital transactions without having an internet connection.",
+		"videoLink": "UPI 123 Pay.mp4"
+	},
+	{
+		"index": 4,
+		"title": "eRUPI",
+		"about": "e-RUPI is a person and purpose-specific cashless e-voucher designed to guarantee that the stored money value reaches its intended beneficiary and can only be used for the specific benefit or purpose for which it was intended. The idea is to create a minimal logistics, leak-proof delivery mechanism for a wide range of government Direct Benefit Transfer (DBT) programs across the country.",
+		"characteristics": "This contactless e-RUPI is easy, safe and secure as it keeps the details of the beneficiaries completely confidential. The entire transaction process through this voucher is relatively faster and at the same time reliable, as the required amount is already stored in the voucher. This contactless eRUPI is easy, safe and secure as it keeps the details of the beneficiaries completely confidential. The entire transaction process through this voucher is relatively faster and at the same time reliable, as the required amount is already stored in the voucher.",
+		"videoLink": "1.eRUPI English.mp4"
+	},
+	{
+		"index": 5,
+		"title": "UPI Safety Shield",
+		"about": "One cannot deny that making online payments has made lives easier than before. However, keeping aside the convenience, as a UPI user, individuals must always stay alert while initiating any kind of transaction. Tap ahead to know the 5 important UPI Safety Shield Tips that one must keep in mind while making any payment using UPI. These safety tips will ensure secure transactions for going cashless with ease.",
+		"characteristics": "1) Enter UPI PIN ONLY to deduct money from account. UPI PIN is NOT required for receiving money.\n2) Check the receiver's name on verifying the UPI ID. Do NOT pay without verification.\n3) Enter UPI PIN ONLY on the app's UPI PIN page. Do NOT share UPI PIN with anyone.\n4) Scan QR ONLY for making payment and NOT for receiving money.\n5) Do not download any screen sharing or SMS forwarding apps when asked upon by any unknown person and without understanding its utility.",
+		"videoLink": "7. UPI Safety Shield English.mp4"
+	},
+	{
+		"index": 6,
+		"title": "UPI ONE WORLD",
+		"about": "UPI One World is a slice of the UPI experience crafted for inbound travellers. It is the Prepaid Payment Instrument linked to UPI provided to foreign nationals and NRIs coming from G20 countries. The Prepaid Payment Instrument on UPI wallet can be used for merchant transactions across the country.",
+		"characteristics": "1) Eliminates the hassle of carrying cash and handling multiple foreign exchange transactions.\n2) Easy, safe and instant digital payments.\n3) Track of spends in transaction history of PPI-UPI Application",
+		"videoLink": "2 UPI ONE WORLD.mp4"
+	}
+]
